@@ -1,0 +1,6 @@
+ema_decay: 0.99
+hidden_dim: 128
+lr: 0.0005
+max_epochs: 100
+temperature: 0.07
+weight_decay: 0.0001
